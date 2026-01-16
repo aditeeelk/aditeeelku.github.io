@@ -1,5 +1,7 @@
 # Aditee Elkunchwar
 
+![Aditee Elkunchwar] (Headshot.JPG)
+
 > Aspiring finance professional interested in investment banking, growth equity, and data-driven strategy.
 
 ## Education
