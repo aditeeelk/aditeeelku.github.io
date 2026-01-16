@@ -13,7 +13,7 @@ Bachelor’s Degree — Expected 2026
 
 ### Investment Banking Intern — Chinook Capital
 - Identified potential clients 
-- assisted senior analsts 
+- assisted senior analysts 
 
 ## Skills
 - Financial modeling
@@ -22,4 +22,4 @@ Bachelor’s Degree — Expected 2026
 
 ## Links
 - [GitHub](https://github.com/aditeeelk)
-- [LinkedIn](https://linkedin.com)
+- [LinkedIn](https://www.linkedin.com/in/aditee-elkunchwar/)
